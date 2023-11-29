@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+pudb = "*"
+djangorestframework = "*"
+djoser = "*"
 
 [dev-packages]
 
